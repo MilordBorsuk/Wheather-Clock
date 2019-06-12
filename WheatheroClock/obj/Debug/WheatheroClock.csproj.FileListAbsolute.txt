@@ -1,0 +1,13 @@
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\obj\Debug\WheatheroClock.csprojAssemblyReference.cache
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\obj\Debug\WheatheroClock.Form1.resources
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\obj\Debug\WheatheroClock.Properties.Resources.resources
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\obj\Debug\WheatheroClock.csproj.GenerateResource.cache
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\obj\Debug\WheatheroClock.csproj.CoreCompileInputs.cache
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\bin\Debug\WheatheroClock.exe.config
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\bin\Debug\WheatheroClock.exe
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\bin\Debug\WheatheroClock.pdb
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\obj\Debug\WheatheroClock.exe
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\obj\Debug\WheatheroClock.pdb
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Piotr-Laptop\source\repos\WheatheroClock\WheatheroClock\obj\Debug\WheatheroClock.csproj.CopyComplete
